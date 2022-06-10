@@ -10,6 +10,7 @@
  
 <p>The right image is an SDR image using BBC LUT9 converted from HLG 38% signal level ("mid-gray" or 26nits when normalized at 1,000nits</p>
 
-<p>LUTs for the Resolve 17 project are available here: https://github.com/digitaltvguy/NBCU-HDR-SDR-Single-Stream_Workflow_Recommendation</p>
+<p>LUTs for the Resolve 17 project are available here:
+https://github.com/digitaltvguy/NBCU-HDR-SDR-Single-Stream_Workflow_Recommendation</p>
 
-![image](https://user-images.githubusercontent.com/1738616/172975841-59ecd394-7198-46df-b542-154eff20601c.png)
+![image](https://raw.githubusercontent.com/digitaltvguy/SDR-Luminance-Survey/main/Artwork/thumbnail720.png)
