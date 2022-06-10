@@ -14,5 +14,5 @@
 <p>https://github.com/digitaltvguy/NBCU-HDR-SDR-Single-Stream_Workflow_Recommendation</p>
 
 <p align="center">
-<src="https://raw.githubusercontent.com/digitaltvguy/SDR-Luminance-Survey/main/Artwork/thumbnail720.png)">
+<src="https://raw.githubusercontent.com/digitaltvguy/SDR-Luminance-Survey/main/Artwork/thumbnail720.png">
 </p>
