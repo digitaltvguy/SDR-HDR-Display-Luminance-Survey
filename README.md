@@ -12,5 +12,4 @@
 
 <p>LUTs for the Resolve 17 project are available here: https://github.com/digitaltvguy/NBCU-HDR-SDR-Single-Stream_Workflow_Recommendation</p>
 
-![image](https://user-images.githubusercontent.com/1738616/172975841-59ecd394-7198-46df-b542-154eff20601c.png)
-
+![image]([https://user-images.githubusercontent.com/1738616/172975841-59ecd394-7198-46df-b542-154eff20601c.png])
