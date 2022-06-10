@@ -10,4 +10,4 @@
  
 <p>The right image is an SDR image using BBC LUT9 converted from HLG 38% signal level ("mid-gray" or 26nits when normalized at 1,000nits</p>
 
-https://github.com/digitaltvguy/SDR-Luminance-Survey/blob/main/thumbnail.png?raw=true
+/electrocat.png
