@@ -10,4 +10,5 @@
  
 <p>The right image is an SDR image using BBC LUT9 converted from HLG 38% signal level ("mid-gray" or 26nits when normalized at 1,000nits</p>
 
-![This is a thumbnail of image](https://myoctocat.com/assets/images/base-octocat.svg)
+![image](https://user-images.githubusercontent.com/1738616/172975841-59ecd394-7198-46df-b542-154eff20601c.png)
+
