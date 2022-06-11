@@ -1,6 +1,6 @@
 # SDR-Luminance-Survey
 
-<p>These files include full range PNG and TIFF 16 bit files in SDR-BT.709-Gamma2.4</p>
+<p>These files include full range PNG-16bit and JPEG-8bit files using SDR-BT.709 and Gamma 2.4</p>
 
 <p>There are also 10bit ProRes-Proxy QuickTime Movies and HEVC Main10 MP4 wrapped versions of in narrow range, SDR-BT.709-Gamma2.4</p> 
  
