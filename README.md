@@ -15,17 +15,24 @@
     * Use a LUX meter with a display that is 55" or above and then convert LUX to nits 200cd/m<sup>2</sup> should equal 628Lux (cd/m<sup>2</sup>=LUX*3.14)
         * Placement of the LUX meter must be right over the pattern and fill extend several inches past each side of the meter. 
 
-<p>These files include full range PNG-16bit,JPEG-8bit, narrow range 10bit ProRes-Proxy-QuickTime, HEVC-Main10-MP4 files using SDR-BT.709 and Gamma 2.4</p>
+* **Repository Files**
+    * Full-Range
+       * PNG-16bit, JPEG-8bit
+    * Narrow-Range 10-bit
+       * ProRes-Proxy-QuickTime, HEVC-Main10-MP4
+    * Narrow-Range 8-bit
+       * AVC-Main-MP4   
  
-<p>The center image is peak white (100% Nominal Video Level)</p>
+* **Image Descriptions**
+    * Center Image: Peak white (100% Nominal Video Level)
+    * Left Image: SDR:BT.709 using NBCU LUT3 converted from HLG 38% signal level ("mid-gray" or 26nits when normalized at 1,000nits.
+    * Right Image: SDR:BT.709 using BBC LUT9 converted from HLG 38% signal level ("mid-gray" or 26nits when normalized at 1,000nits.
 
-<p>The left image is an SDR image using NBCU LUT3 converted from HLG 38% signal level ("mid-gray" or 26nits when normalized at 1,000nits</p>
+* **Reference**
+    * LUTs for the Resolve 17 project are available here: https://github.com/digitaltvguy/NBCU-HDR-SDR-Single-Stream_Workflow_Recommendation
+    * [Click Here For NBCU UHD HDR/SDR Single-Stream Workflow Recommendation](https://github.com/digitaltvguy/NBCU-HDR-SDR-Single-Stream_Workflow_Recommendation)
  
-<p>The right image is an SDR image using BBC LUT9 converted from HLG 38% signal level ("mid-gray" or 26nits when normalized at 1,000nits</p>
-
-<p>LUTs for the Resolve 17 project are available here:</p>
-<p>https://github.com/digitaltvguy/NBCU-HDR-SDR-Single-Stream_Workflow_Recommendation</p>
- 
+* **Image Thumbnail Preview** 
 <p align="center">
   <img width="720" height="405" src="https://raw.githubusercontent.com/digitaltvguy/SDR-Luminance-Survey/main/Artwork/thumbnail720.png">
 </p>
