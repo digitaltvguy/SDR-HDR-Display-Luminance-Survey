@@ -1,9 +1,9 @@
 # SDR-Luminance-Survey
 
 <p>Please Place the files in this respository on a USB stick and plug into your TV for playback.</p>
-...* Measure the center image first (peak white)
-...* Measure NBCU midgray downmap next
-...* Measure BBC midgray downmap next
+    * Measure the center image first (peak white)
+    * Measure NBCU midgray downmap next
+    * Measure BBC midgray downmap next
 
 <p>These files include full range PNG-16bit and JPEG-8bit files using SDR-BT.709 and Gamma 2.4</p>
 
