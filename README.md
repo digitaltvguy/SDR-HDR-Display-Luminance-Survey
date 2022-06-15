@@ -7,7 +7,7 @@
     * Measure the center image first (peak white)
     * Measure NBCU midgray downmap next
     * Measure BBC midgray downmap next
-    * **[Click Here To Fill Out: SDR Display Luminance Survey]**(https://forms.gle/8RBDQEZRWKtDDUE78)
+    * **[Click Here To Fill Out: SDR Display Luminance Survey](https://forms.gle/8RBDQEZRWKtDDUE78)**
 
 * **Measuring Methods**
     * Use a spot meter with Calman (or equivalent) using any workflow that will give you a nit value (cd/m<sup>2</sup>).
