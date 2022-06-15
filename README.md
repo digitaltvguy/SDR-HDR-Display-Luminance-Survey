@@ -7,7 +7,7 @@
     * Measure the center image first (peak white)
     * Measure NBCU midgray downmap next
     * Measure BBC midgray downmap next
-    * Fill out SDR Display Luminance Survey: <span style="color: blue">[SDR Luminance Survey](https://forms.gle/8RBDQEZRWKtDDUE78)</span>
+    * [Click Here To Fill out SDR Display Luminance Survey](https://forms.gle/8RBDQEZRWKtDDUE78)
 
 * **Measuring Methods**
     * Use a spot meter with Calman (or equivalent) using any workflow that will give you a nit value (cd/m<sup>2</sup>).
@@ -29,7 +29,7 @@
     * **Right Image:** SDR:BT.709 using BBC LUT9 converted from HLG 38% signal level ("mid-gray" or 26nits when normalized at 1,000nits.
 
 * **Reference**
-    * [Click here for LUTs Used In DaVinci Resolve Project](https://github.com/digitaltvguy/NBCU-HDR-SDR-Single-Stream_Workflow_Recommendation)
+    * [Click here for LUTs Used In DaVinci Resolve Project Referenced in This Repository](https://github.com/digitaltvguy/NBCU-HDR-SDR-Single-Stream_Workflow_Recommendation)
     * [Click Here For NBCU UHD HDR/SDR Single-Stream Workflow Recommendation](https://github.com/digitaltvguy/NBCU-HDR-SDR-Single-Stream_Workflow_Recommendation)
  
 * **Image Thumbnail Preview** 
