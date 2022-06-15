@@ -29,7 +29,7 @@
     * **Right Image:** SDR:BT.709 using BBC LUT9 converted from HLG 38% signal level ("mid-gray" or 26nits when normalized at 1,000nits.
 
 * **Reference**
-    * **LUTs for the Resolve 17 project are available here:** https://github.com/digitaltvguy/NBCU-HDR-SDR-Single-Stream_Workflow_Recommendation
+    * [Click here for LUTs Used In DaVinci Resolve Project](https://github.com/digitaltvguy/NBCU-HDR-SDR-Single-Stream_Workflow_Recommendation)
     * [Click Here For NBCU UHD HDR/SDR Single-Stream Workflow Recommendation](https://github.com/digitaltvguy/NBCU-HDR-SDR-Single-Stream_Workflow_Recommendation)
  
 * **Image Thumbnail Preview** 
