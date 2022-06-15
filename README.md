@@ -1,4 +1,5 @@
-# SDR-Luminance-Survey: Peak-White SDR Luminance and UHD Single-Stream tone-mapped midgray (BT.2408 methods)
+# SDR-Luminance-Survey
+# Peak-White SDR Luminance and UHD Single-Stream tone-mapped midgray (BT.2408 methods)
 
 * **Please place the files in this respository on a USB stick and plug into your TV for playback.**
     * Measure the center image first (peak white)
