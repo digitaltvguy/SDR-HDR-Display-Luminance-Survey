@@ -11,7 +11,7 @@
 
 * **Measuring Methods**
     * Use a spot meter with Calman (or equivalent) using any workflow that will give you a nit value (cd/m<sup>2</sup>).
-    * [Click here for SM208 Screen Luminance Meter via Amazon](https://www.amazon.com/gp/product/B00H050VEI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1). **Checking Accuracy once we receive the meter**
+    * **[Click here for SM208 Screen Luminance Meter via Amazon](https://www.amazon.com/gp/product/B00H050VEI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1).** **Checking Accuracy once we receive the meter**
     * Use a LUX meter with a display that is 55" or above and then convert LUX to nits 200cd/m<sup>2</sup> should equal 628Lux (cd/m<sup>2</sup>=LUX*3.14)
         * Placement of the LUX meter must be right over the pattern and fill extend several inches past each side of the meter. 
 
