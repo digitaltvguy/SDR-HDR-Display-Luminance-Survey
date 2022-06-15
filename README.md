@@ -16,20 +16,20 @@
         * Placement of the LUX meter must be right over the pattern and fill extend several inches past each side of the meter. 
 
 * **Repository Files**
-    * Full-Range
+    * **Full-Range**
        * PNG-16bit, JPEG-8bit
-    * Narrow-Range 10-bit
+    * **Narrow-Range 10-bit**
        * ProRes-Proxy-QuickTime, HEVC-Main10-MP4
-    * Narrow-Range 8-bit
+    * **Narrow-Range 8-bit**
        * AVC-Main-MP4   
  
 * **Image Descriptions**
-    * Center Image: Peak white (100% Nominal Video Level)
-    * Left Image: SDR:BT.709 using NBCU LUT3 converted from HLG 38% signal level ("mid-gray" or 26nits when normalized at 1,000nits.
-    * Right Image: SDR:BT.709 using BBC LUT9 converted from HLG 38% signal level ("mid-gray" or 26nits when normalized at 1,000nits.
+    * **Center Image:** Peak white (100% Nominal Video Level)
+    * **Left Image:** SDR:BT.709 using NBCU LUT3 converted from HLG 38% signal level ("mid-gray" or 26nits when normalized at 1,000nits.
+    * **Right Image:** SDR:BT.709 using BBC LUT9 converted from HLG 38% signal level ("mid-gray" or 26nits when normalized at 1,000nits.
 
 * **Reference**
-    * LUTs for the Resolve 17 project are available here: https://github.com/digitaltvguy/NBCU-HDR-SDR-Single-Stream_Workflow_Recommendation
+    * **LUTs for the Resolve 17 project are available here:** https://github.com/digitaltvguy/NBCU-HDR-SDR-Single-Stream_Workflow_Recommendation
     * [Click Here For NBCU UHD HDR/SDR Single-Stream Workflow Recommendation](https://github.com/digitaltvguy/NBCU-HDR-SDR-Single-Stream_Workflow_Recommendation)
  
 * **Image Thumbnail Preview** 
