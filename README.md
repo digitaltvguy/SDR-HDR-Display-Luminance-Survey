@@ -1,6 +1,6 @@
 # SDR-Luminance-Survey
 
-<p>Please Place the files in this respository on a USB stick and plug into your TV for playback.</p>
+* Please place the files in this respository on a USB stick and plug into your TV for playback.
     * Measure the center image first (peak white)
     * Measure NBCU midgray downmap next
     * Measure BBC midgray downmap next
