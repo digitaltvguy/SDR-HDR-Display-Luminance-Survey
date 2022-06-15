@@ -18,11 +18,13 @@
         * Placement of the LUX meter must be right over the pattern and extend past meter sensor several inches on each side. 
 
 * **Repository Files**
-    * **Full-Range**
-       * PNG-16bit, JPEG-8bit
-    * **Narrow-Range 10-bit**
+    * **Full-Range 16bit** (16bit Black=0; Peak White=65535)
+       * PNG-16
+    * **Full-Range 8bit** (8bit Black=0; Peak White=255)
+       * PNG-8bit, JPEG-8bit
+    * **Narrow-Range 10bit** (Black=0; Peak White=940)
        * ProRes-Proxy-QuickTime, HEVC-Main10-MP4
-    * **Narrow-Range 8-bit**
+    * **Narrow-Range 8bit** (Black=0; Peak White=255)
        * AVC-Main-MP4   
  
 * **Image Descriptions**
