@@ -1,5 +1,5 @@
 ### SDR Display Luminance Survey
-### Native SDR Peak-White 100% Signal Level in SDR
+### Native SDR Peak-White 100% Nominal Signal Level in SDR
 ### UHD single-stream tone-mapped midgray luminance HDR to SDR (Test BT.2408 tone-mapping methods)
 ---
 
