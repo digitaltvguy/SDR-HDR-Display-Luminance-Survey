@@ -39,5 +39,5 @@
  
 * **Image Thumbnail Preview** 
 <p align="center">
-  <img width="720" height="405" src="https://raw.githubusercontent.com/digitaltvguy/SDR-Luminance-Survey/main/Artwork/thumbnail720.png">
+  <img width="720" height="405" src="https://raw.githubusercontent.com/digitaltvguy/SDR-Luminance-Survey/main/Artwork/thumbnail720.jpg">
 </p>
