@@ -14,7 +14,7 @@
 
 * **Spot Meter Measuring**
     * **A spot meter must be used for display measurement accuracy:**
-        *  With Calman (or equivalent) using included workflow for nits - cd/m<sup>2</sup> measurement
+        *  With Calman (or equivalent) using included Calman workflow for nits - cd/m<sup>2</sup> measurement
         * **[Click here for Handheld SM208 screen luminance meter via Amazon](https://www.amazon.com/gp/product/B00H050VEI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1).** 
 
 * **SDR Repository Files with 10% Window Size Gray Chips**
