@@ -9,7 +9,8 @@
     * Measure the center image first (peak white)
     * Measure NBCU midgray downmap next
     * Measure BBC midgray downmap next
-    * **[Click Here To Fill Out: SDR Display Luminance Survey](https://forms.gle/8RBDQEZRWKtDDUE78)**
+    * **[Click Here To Fill Out: SDR Display Luminance Survey](https://forms.gle/MRcGhh8WgQVUkUSJ9)**
+    * **[Click Here To Fill Out (OPTIONAL): HDR Display Luminance Survey](https://forms.gle/nFKsyX6bWNLTkdKt6)**
 
 * **Spot Meter Measuring**
     * **A spot meter must be used for display measurement accuracy:**
@@ -28,11 +29,9 @@
        * AVC-Main-MP4   
 
 * **HDR Repository Files with 10% Window Size Gray Chips**
-    * **Full-Range PNG 16bit** (16bit Black=0; Peak White=65535)
-       * PNG-16
     * **Narrow-Range QuickTime/MP4 Movie10bit** (Black=0; Peak White=940)(9%, 10%, 11% Peak White Chips)
+       * HEVC-Main10-MP4 (This file will work in most HDR TV's)
        * ProRes-Proxy-QuickTime
-       * HEVC-Main10-MP4
  
 * **Image Descriptions**
     * **Center Image:** Peak white (100% Nominal Video Level)
@@ -43,14 +42,13 @@
     * **[Click here for LUTs Used In DaVinci Resolve Project Referenced in This Repository](https://github.com/digitaltvguy/NBCU-HDR-SDR-Single-Stream_Workflow_Recommendation/tree/main/LUTS_for_Software/HLG-to-from-SDR%20-%20Type%20III%20and%20Type%20I/For%20DaVinci%20Resolve%2017%20-%20Video%20Level%20Tag%20Added%20-%20Type%20III))**
     * **[Click Here For NBCU UHD HDR/SDR Single-Stream Workflow Recommendation](https://github.com/digitaltvguy/NBCU-HDR-SDR-Single-Stream_Workflow_Recommendation)**
     * **[Click Here For Initial Survey Results From Contributors](https://www.icloud.com/numbers/040HYTS0GVcpkB3gFGE275p_A#SDR_Display_Luminance_Level_Survey_Tallies)**
- 
-* **Image Thumbnail Preview** 
-* **SDR Test File**
+  
+* **SDR Test File Thumbnail Preview**
 <p align="center">
   <img width="720" height="405" src="https://raw.githubusercontent.com/digitaltvguy/SDR-Luminance-Survey/main/Artwork/thumbnail720SDR.jpg">
 </p>
 
-* **HDR Test File - OPTIONAL**
+* **HDR Test File - OPTIONAL Thumbnail Preview**
 <p align="center">
   <img width="720" height="405" src="https://raw.githubusercontent.com/digitaltvguy/SDR-Luminance-Survey/main/Artwork/thumbnail720HDR.jpg">
 </p>
