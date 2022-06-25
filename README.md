@@ -9,7 +9,7 @@
     * Measure the center image first (peak white)
     * Measure NBCU midgray downmap next
     * Measure BBC midgray downmap next
-    * **[Click Here To Fill Out: SDR Display Luminance Survey](https://forms.gle/8RBDQEZRWKtDDUE78)**
+    * **[Click Here To Fill Out: SDR Display Luminance Survey](https://forms.gle/MRcGhh8WgQVUkUSJ9)**
     * **[OPTIONAL: Click Here To Fill Out: HDR Display Luminance Survey](https://forms.gle/nFKsyX6bWNLTkdKt6)**
 
 * **Spot Meter Measuring**
