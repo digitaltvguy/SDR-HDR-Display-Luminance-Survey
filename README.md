@@ -7,8 +7,8 @@
 
 * **Please place the files in this respository on a USB stick and plug into your TV for playback.**
     * Measure the center image first (peak white)
-    * Measure NBCU midgray downmap next
-    * Measure BBC midgray downmap next
+    * Measure NBCU LUT3 midgray downmap next
+    * Measure BBC LUT9C midgray downmap next
     * **[Click Here To Fill Out: SDR Display Luminance Survey](https://forms.gle/MRcGhh8WgQVUkUSJ9)**
     * **[Click Here To Fill Out (OPTIONAL): HDR Display Luminance Survey](https://forms.gle/nFKsyX6bWNLTkdKt6)**
 
