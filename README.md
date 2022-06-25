@@ -1,4 +1,4 @@
-### SDR and HDR Display Luminance Survey
+### SDR Display Luminance Survey
 ### Native SDR Peak-White 100% Nominal Signal Level in SDR
 ### Native SDR Midgray after conversion from HDR using NBCU and BBC LUTs
 ### OPTIONAL: Added Native HDR Test Files for 1,000nit, Graphic White(203nit), MidGray(26nits)
@@ -45,6 +45,12 @@
     * **[Click Here For Initial Survey Results From Contributors](https://www.icloud.com/numbers/040HYTS0GVcpkB3gFGE275p_A#SDR_Display_Luminance_Level_Survey_Tallies)**
  
 * **Image Thumbnail Preview** 
+* **SDR Test File**
 <p align="center">
-  <img width="720" height="405" src="https://raw.githubusercontent.com/digitaltvguy/SDR-Luminance-Survey/main/Artwork/thumbnail720.jpg">
+  <img width="720" height="405" src="https://raw.githubusercontent.com/digitaltvguy/SDR-Luminance-Survey/main/Artwork/thumbnail720SDR.jpg">
+</p>
+
+* **HDR Test File - OPTIONAL**
+<p align="center">
+  <img width="720" height="405" src="https://raw.githubusercontent.com/digitaltvguy/SDR-Luminance-Survey/main/Artwork/thumbnail720HDR.jpg">
 </p>
