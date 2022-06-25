@@ -17,7 +17,7 @@
         * Convert LUX to nits 200cd/m<sup>2</sup> should equal 628Lux (cd/m<sup>2</sup>=LUX*3.14)
         * Placement of the LUX meter must be right over the pattern and extend past meter sensor several inches on each side. 
 
-* **Repository Files with 10% Window Size Gray Chips**
+* **SDR Repository Files with 10% Window Size Gray Chips**
     * **Full-Range PNG 16bit** (16bit Black=0; Peak White=65535)
        * PNG-16
     * **Full-Range JPEG 8bit** (8bit Black=0; Peak White=255)
@@ -27,6 +27,13 @@
        * HEVC-Main10-MP4
     * **Narrow-Range MP4 AVC 8bit** (Black=0; Peak White=255)
        * AVC-Main-MP4   
+
+* **HDR Repository Files with 10% Window Size Gray Chips**
+    * **Full-Range PNG 16bit** (16bit Black=0; Peak White=65535)
+       * PNG-16
+    * **Narrow-Range QuickTime/MP4 Movie10bit** (Black=0; Peak White=940)(9%, 10%, 11% Peak White Chips)
+       * ProRes-Proxy-QuickTime
+       * HEVC-Main10-MP4
  
 * **Image Descriptions**
     * **Center Image:** Peak white (100% Nominal Video Level)
