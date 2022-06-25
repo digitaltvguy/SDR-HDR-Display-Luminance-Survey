@@ -1,4 +1,4 @@
-### SDR Display Luminance Survey
+### SDR and HDR Display Luminance Survey
 ### Native SDR Peak-White 100% Nominal Signal Level in SDR
 ### UHD single-stream tone-mapped midgray luminance HDR to SDR (Test BT.2408 tone-mapping methods)
 ---
@@ -9,13 +9,10 @@
     * Measure BBC midgray downmap next
     * **[Click Here To Fill Out: SDR Display Luminance Survey](https://forms.gle/8RBDQEZRWKtDDUE78)**
 
-* **Measuring Methods**
-    * **Using a spot meter:**
+* **Spot Meter Measuring**
+    * **A spot meter must be used for display measurement accuracy:**
         *  With Calman (or equivalent) using any workflow that will give you a nit value (cd/m<sup>2</sup>).
-        * **[Click here for SM208 Screen Luminance Meter via Amazon](https://www.amazon.com/gp/product/B00H050VEI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1).** **Experimental-Check Meter Accuracy**
-    * **Use a LUX meter with a display that is 55" or above since it is gathering photons based on a specific area.**
-        * Convert LUX to nits 200cd/m<sup>2</sup> should equal 628Lux (cd/m<sup>2</sup>=LUX*3.14)
-        * Placement of the LUX meter must be right over the pattern and extend past meter sensor several inches on each side. 
+        * **[Click here for Handheld SM208 screen luminance meter via Amazon](https://www.amazon.com/gp/product/B00H050VEI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1).** 
 
 * **SDR Repository Files with 10% Window Size Gray Chips**
     * **Full-Range PNG 16bit** (16bit Black=0; Peak White=65535)
