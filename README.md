@@ -10,7 +10,7 @@
     * Measure NBCU midgray downmap next
     * Measure BBC midgray downmap next
     * **[Click Here To Fill Out: SDR Display Luminance Survey](https://forms.gle/MRcGhh8WgQVUkUSJ9)**
-    * **[OPTIONAL: Click Here To Fill Out: HDR Display Luminance Survey](https://forms.gle/nFKsyX6bWNLTkdKt6)**
+    * **[Click Here To Fill Out (OPTIONAL): HDR Display Luminance Survey](https://forms.gle/nFKsyX6bWNLTkdKt6)**
 
 * **Spot Meter Measuring**
     * **A spot meter must be used for display measurement accuracy:**
