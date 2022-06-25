@@ -29,11 +29,9 @@
        * AVC-Main-MP4   
 
 * **HDR Repository Files with 10% Window Size Gray Chips**
-    * **Full-Range PNG 16bit** (16bit Black=0; Peak White=65535)
-       * PNG-16
     * **Narrow-Range QuickTime/MP4 Movie10bit** (Black=0; Peak White=940)(9%, 10%, 11% Peak White Chips)
+       * HEVC-Main10-MP4 (This file will work in most HDR TV's)
        * ProRes-Proxy-QuickTime
-       * HEVC-Main10-MP4
  
 * **Image Descriptions**
     * **Center Image:** Peak white (100% Nominal Video Level)
