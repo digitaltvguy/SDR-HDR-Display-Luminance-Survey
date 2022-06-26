@@ -29,7 +29,7 @@
     * **Narrow-Range MP4 AVC 8bit** (Black=0; Peak White=255)
        * AVC-Main-MP4   
 
-* **HDR Repository Files with 10% Window Size Gray Chips**
+* **HDR Repository Files with 10% Window Size Gray Chip and 5% for 1,000nit (pause movie)s**
     * **Narrow-Range QuickTime/MP4 Movie10bit** (Black=0; Peak White=940)(9%, 10%, 11% Peak White Chips)
        * HEVC-Main10-MP4 (This file will work in most HDR TV's)
        * ProRes-Proxy-QuickTime
