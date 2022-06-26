@@ -49,7 +49,7 @@
   <img width="720" height="405" src="https://raw.githubusercontent.com/digitaltvguy/SDR-Luminance-Survey/main/Artwork/thumbnail720SDR.jpg">
 </p>
 
-* **HDR Test File - OPTIONAL Thumbnail Preview**
+* **HDR Test File Thumbnail Preview**
 <p align="center">
   <img width="720" height="405" src="https://raw.githubusercontent.com/digitaltvguy/SDR-Luminance-Survey/main/Artwork/thumbnail720HDR.jpg">
 </p>
