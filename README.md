@@ -9,8 +9,9 @@
     * Measure the center image first (peak white)
     * Measure NBCU LUT3 midgray downmap next
     * Measure BBC LUT9C midgray downmap next
-    * **[Click Here To Fill Out: SDR Display Luminance Survey](https://forms.gle/MRcGhh8WgQVUkUSJ9)**
-    * **[Click Here To Fill Out: HDR Display Luminance Survey](https://forms.gle/nFKsyX6bWNLTkdKt6)**
+    * **[Click Here To Fill Out: SDR Display Luminance Survey for Experts](https://forms.gle/MRcGhh8WgQVUkUSJ9)**
+    * **[Click Here To Fill Out: SDR Display Luminance Survey for Consumers](https://forms.gle/7PX7YSNEz3odWzY29)**
+    * **[Click Here To Fill Out: HDR Display Luminance Survey for Experts](https://forms.gle/nFKsyX6bWNLTkdKt6)**
 
 * **Spot Meter Measuring**
     * **A spot meter must be used for display measurement accuracy:**
