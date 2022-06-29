@@ -14,9 +14,9 @@
     * Measure BBC LUT9C midgray downmap next<br/>
    
 * **<ins>Surveys<ins>**
-    1. **[SDR Display Luminance Survey for Experts](https://forms.gle/MRcGhh8WgQVUkUSJ9)**
-    2. **[SDR Display MODE Survey for Consumers](https://forms.gle/7PX7YSNEz3odWzY29)**
-    3. **[HDR Display Luminance Survey for Experts](https://forms.gle/nFKsyX6bWNLTkdKt6)**
+        1. **[SDR Display MODE Consumer Survey for ANYONE](https://forms.gle/7PX7YSNEz3odWzY29)**
+        2. **[SDR Display Luminance Survey for Experts](https://forms.gle/MRcGhh8WgQVUkUSJ9)**
+        3. **[HDR Display Luminance Survey for Experts](https://forms.gle/nFKsyX6bWNLTkdKt6)**
 
 * **<ins>Spot Meter Measuring<ins>**
     * **A spot meter must be used for display measurement accuracy:**
@@ -51,10 +51,10 @@
   
 * **<ins>SDR Test File Thumbnail Preview<ins>**
 <p align="center">
-  <img width="720" height="405" src="https://raw.githubusercontent.com/digitaltvguy/SDR-Luminance-Survey/main/Artwork/thumbnail720SDR.jpg">
+  <img width="720" height="405" src="https://raw.githubusercontent.com/digitaltvguy/SDR-Luminance-Survey/main/__additional_ref_files/thumbnail720SDR.jpg">
 </p>
 
 * **<ins>HDR Test File Thumbnail Preview<ins>**
 <p align="center">
-  <img width="720" height="405" src="https://raw.githubusercontent.com/digitaltvguy/SDR-Luminance-Survey/main/Artwork/thumbnail720HDR.jpg">
+  <img width="720" height="405" src="https://raw.githubusercontent.com/digitaltvguy/SDR-Luminance-Survey/main/__additional_ref_files/thumbnail720HDR.jpg">
 </p>
