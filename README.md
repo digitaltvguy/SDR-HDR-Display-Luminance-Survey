@@ -11,10 +11,12 @@
     * Place media files folders (SDR and HDR)on a USB stick and plug into your TV for testing**
     * Measure the center image first (peak white)
     * Measure NBCU LUT3 midgray downmap next
-    * Measure BBC LUT9C midgray downmap next
-    * **[Click Here To Fill Out: SDR Display Luminance Survey for Experts](https://forms.gle/MRcGhh8WgQVUkUSJ9)**
-    * **[Click Here To Fill Out: SDR Display Mode Survey for Consumers](https://forms.gle/7PX7YSNEz3odWzY29)**
-    * **[Click Here To Fill Out: HDR Display Luminance Survey for Experts](https://forms.gle/nFKsyX6bWNLTkdKt6)**
+    * Measure BBC LUT9C midgray downmap next<br/>
+   
+* **<ins>Surveys<ins>**
+    1. **[Click Here To Fill Out: SDR Display Luminance Survey for Experts](https://forms.gle/MRcGhh8WgQVUkUSJ9)**
+    2. **[Click Here To Fill Out: SDR Display Mode Survey for Consumers](https://forms.gle/7PX7YSNEz3odWzY29)**
+    3. **[Click Here To Fill Out: HDR Display Luminance Survey for Experts](https://forms.gle/nFKsyX6bWNLTkdKt6)**
 
 * **<ins>Spot Meter Measuring<ins>**
     * **A spot meter must be used for display measurement accuracy:**
