@@ -14,9 +14,9 @@
     * Measure BBC LUT9C midgray downmap next<br/>
    
 * **<ins>Surveys<ins>**
-    1. **[Click Here To Fill Out: SDR Display Luminance Survey for Experts](https://forms.gle/MRcGhh8WgQVUkUSJ9)**
-    2. **[Click Here To Fill Out: SDR Display Mode Survey for Consumers](https://forms.gle/7PX7YSNEz3odWzY29)**
-    3. **[Click Here To Fill Out: HDR Display Luminance Survey for Experts](https://forms.gle/nFKsyX6bWNLTkdKt6)**
+    1. **[SDR Display Luminance Survey for Experts](https://forms.gle/MRcGhh8WgQVUkUSJ9)**
+    2. **[SDR Display MODE Survey for Consumers](https://forms.gle/7PX7YSNEz3odWzY29)**
+    3. **[HDR Display Luminance Survey for Experts](https://forms.gle/nFKsyX6bWNLTkdKt6)**
 
 * **<ins>Spot Meter Measuring<ins>**
     * **A spot meter must be used for display measurement accuracy:**
