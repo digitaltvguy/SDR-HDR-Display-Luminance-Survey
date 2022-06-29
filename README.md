@@ -1,12 +1,13 @@
-### Display Luminance Survey
+#### Display Luminance Survey
 ---
-## GOALS
+### GOALS
 #### <ins>SDR<ins>
 #### Measure Native SDR Peak-White, Midgray after conversion from HDR using NBCU and BBC LUTs (tone-mapped midgray luminance HDR to SDR; the two tone-mapping methods described in ITU-R BT.2408)
 #### <ins>HDR<ins>
 #### Measure Native HDR 1,000nits, Graphic White(203nit), MidGray(26nits) (nits=(cd/m<sup>2</sup>))
 
-* **Please place the files in this respository on a USB stick and plug into your TV for playback.**
+* **Test File Usage**
+    * Place media files folders (SDR and HDR)on a USB stick and plug into your TV for testing**
     * Measure the center image first (peak white)
     * Measure NBCU LUT3 midgray downmap next
     * Measure BBC LUT9C midgray downmap next
