@@ -8,16 +8,16 @@
 ---
 
 * **<ins>Test File Usage<ins>**
-    * Place media files folders (SDR and HDR)on a USB stick and plug into your TV for testing**
+    * Place media files folders (SDR and HDR)on a USB stick and plug into your TV for testing
     * Select any SDR or HDR image that will open on your TV. You need only find one that works.
     * Measure the center image first (peak white)
     * Measure NBCU LUT3 midgray downmap next
     * Measure BBC LUT9C midgray downmap next<br/>
    
 * **<ins>Surveys<ins>**
-        1. **[SDR Display MODE Consumer Survey for ANYONE](https://forms.gle/7PX7YSNEz3odWzY29)**
-        2. **[SDR Display Luminance Survey for Experts](https://forms.gle/MRcGhh8WgQVUkUSJ9)**
-        3. **[HDR Display Luminance Survey for Experts](https://forms.gle/nFKsyX6bWNLTkdKt6)**
+        **1. [SDR Display MODE Consumer Survey for ANYONE](https://forms.gle/7PX7YSNEz3odWzY29)**
+        **2.[SDR Display Luminance Survey for Experts](https://forms.gle/MRcGhh8WgQVUkUSJ9)**
+        **3.[HDR Display Luminance Survey for Experts](https://forms.gle/nFKsyX6bWNLTkdKt6)**
 
 * **<ins>Spot Meter Measuring<ins>**
     * **A spot meter must be used for display measurement accuracy:**
@@ -27,18 +27,19 @@
 * **<ins>SDR Repository Files with 10% Window Size Gray Chips<ins>**
     * **Full-Range PNG 16bit** (16bit Black=0; Peak White=65535)
        * PNG-16
+       * 1-SDR-Peak-White-MidGray-38PercentHLG-SDR-2ToneMaps-16bit-PNG-FR.png
     * **Full-Range JPEG 8bit** (8bit Black=0; Peak White=255)
        * PNG-8bit, JPEG-8bit
-    * **Narrow-Range QuickTime/MP4 Movie10bit** (Black=0; Peak White=940)(9%, 10%, 11% Peak White Chips)
-       * ProRes-Proxy-QuickTime
-       * HEVC-Main10-MP4
+       * 2-SDR-Peak-White-MidGray-38PercentHLG-SDR-2ToneMaps-8bit-JPEG-FR.jpg
     * **Narrow-Range MP4 AVC 8bit** (Black=0; Peak White=255)
        * AVC-Main-MP4
+       * 3-SDR-MidGray38HLG-SDR-2ToneMaps-1080P-8bit-H264Main-NR.mp4
 
 * **<ins>HDR Repository Files with 10% Window Size Gray Chip and 5% for 1,000nits (pause movie)<ins>**
     * **<ins>Narrow-Range QuickTime/MP4 Movie10bit** (Black=0; Peak White=940)(9%, 10%, 11% Peak White Chips)<ins>**
        * HEVC-Main10-MP4 (This file will work in most HDR TV's)
-       * ProRes-Proxy-QuickTime
+       * 4-PQ_Display_Luminance_Test_HEVC_NR.mp4
+       * 5-HLG_Display_Luminance_Test_HEVC.mp4
  
 * **<ins>Image Descriptions<ins>**
     * **Center Image:** Peak white (100% Nominal Video Level)
