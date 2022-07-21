@@ -9,6 +9,7 @@
 
 * **<ins>Test File Usage<ins>**
     * Place media files folders (SDR and HDR)on a USB stick and plug into your TV for testing**
+    * Select any SDR or HDR image that will open on your TV. You need only find one that works.
     * Measure the center image first (peak white)
     * Measure NBCU LUT3 midgray downmap next
     * Measure BBC LUT9C midgray downmap next<br/>
