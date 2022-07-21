@@ -58,5 +58,5 @@
 
 * **<ins>HDR Test File Thumbnail Preview<ins>**
 <p align="center">
-  <img width="720" height="405" src="https://raw.githubusercontent.com/digitaltvguy/SDR-Luminance-Survey/main/__additional_ref_files/thumbnail720HDR.jpg">
+  <img width="720" height="405" src="https://github.com/digitaltvguy/SDR-Display-Luminance-Survey/blob/main/Additional_ref_files/thumbnail720HDR.jpg?raw=true">
 </p>
