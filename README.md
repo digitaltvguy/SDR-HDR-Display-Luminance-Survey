@@ -9,10 +9,12 @@
 
 * **<ins>Test File Usage<ins>**
     * Place media files folders (SDR and HDR)on a USB stick and plug into your TV for testing
+    * Set the TV Mode that you normally use (Cinema/Movie, Standard, Sports, Vivid, etc)
     * Select any SDR or HDR image that will open on your TV. You need only find one that works.
     * Measure the center image first (peak white)
     * Measure NBCU LUT3 midgray downmap next
     * Measure BBC LUT9C midgray downmap next<br/>
+    * Repeat the test with each TV display mode (where possible) to see what midtone stretching is occurring
    
 * **<ins>Surveys<ins>**
         **1. [SDR Display MODE Consumer Survey for ANYONE](https://forms.gle/7PX7YSNEz3odWzY29)**
