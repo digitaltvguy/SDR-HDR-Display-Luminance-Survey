@@ -27,7 +27,7 @@
 * **<ins>SDR Repository Files with 10% Window Size Gray Chips<ins>**
     * **Full-Range PNG 16bit** (16bit Black=0; Peak White=65535)
        * **PNG-16**
-       * 1-SDR-Peak-White-MidGray-38PercentHLG-SDR-2ToneMaps-16bit-PNG-FR.png
+         * 1-SDR-Peak-White-MidGray-38PercentHLG-SDR-2ToneMaps-16bit-PNG-FR.png
     * **Full-Range JPEG 8bit** (8bit Black=0; Peak White=255)
        * **PNG-8bit, JPEG-8bit**
          * 2-SDR-Peak-White-MidGray-38PercentHLG-SDR-2ToneMaps-8bit-JPEG-FR.jpg
@@ -37,9 +37,9 @@
 
 * **<ins>HDR Repository Files with 10% Window Size Gray Chip and 5% for 1,000nits (pause movie)<ins>**
     * **<ins>Narrow-Range QuickTime/MP4 Movie10bit** (Black=0; Peak White=940)(9%, 10%, 11% Peak White Chips)<ins>**
-       * HEVC-Main10-MP4 (This file will work in most HDR TV's)
-       * 4-PQ_Display_Luminance_Test_HEVC_NR.mp4
-       * 5-HLG_Display_Luminance_Test_HEVC.mp4
+       * **HEVC-Main10-MP4 (This file will work in most HDR TV's)**
+         * 4-PQ_Display_Luminance_Test_HEVC_NR.mp4
+         * 5-HLG_Display_Luminance_Test_HEVC.mp4
  
 * **<ins>Image Descriptions<ins>**
     * **Center Image:** Peak white (100% Nominal Video Level)
