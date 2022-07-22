@@ -17,7 +17,7 @@
     7. Enter requested information and image luminance values into survey (links below)</br>
     8. Repeat the test with each TV display mode (where possible) to see what midtone stretching is occurring</br>
    </br>
-   * **<ins>Surveys<ins>**</br>
+   * **<ins>Surveys<ins>**
         1. [SDR Display MODE Consumer Survey for ANYONE](https://forms.gle/7PX7YSNEz3odWzY29)</br>
         2. [SDR Display Luminance Survey for Experts](https://forms.gle/MRcGhh8WgQVUkUSJ9)</br>
         3. [HDR Display Luminance Survey for Experts](https://forms.gle/nFKsyX6bWNLTkdKt6)</br>
