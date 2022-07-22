@@ -8,7 +8,7 @@
 ---
 
 * **<ins>Test File Usage<ins>**<br/>
-        1. Place media files folders (SDR and HDR)on a USB stick and plug into your TV for testing<br/>
+        1. Place media files folders (SDR and HDR Folders)on a USB stick and plug into your TV for testing<br/>
         2. Set the TV Mode that you normally use (Cinema/Movie, Standard, Sports, Vivid, etc)<br/>
         3. Select any SDR or HDR image that will open on your TV. You need only find one that works<br/>
         4. Measure the peak white image (center image)<br/>
