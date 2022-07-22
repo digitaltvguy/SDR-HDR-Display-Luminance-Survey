@@ -18,9 +18,9 @@
     * 8. Repeat the test with each TV display mode (where possible) to see what midtone stretching is occurring
    
 * **<ins>Surveys<ins>**
-        ** 1. [SDR Display MODE Consumer Survey for ANYONE](https://forms.gle/7PX7YSNEz3odWzY29)
-        ** 2. [SDR Display Luminance Survey for Experts](https://forms.gle/MRcGhh8WgQVUkUSJ9)
-        ** 3. [HDR Display Luminance Survey for Experts](https://forms.gle/nFKsyX6bWNLTkdKt6)
+        ** 1. [SDR Display MODE Consumer Survey for ANYONE](https://forms.gle/7PX7YSNEz3odWzY29) **
+        ** 2. [SDR Display Luminance Survey for Experts](https://forms.gle/MRcGhh8WgQVUkUSJ9) **
+        ** 3. [HDR Display Luminance Survey for Experts](https://forms.gle/nFKsyX6bWNLTkdKt6) **
 
 * **<ins>Spot Meter Measuring<ins>**
     * **A spot meter must be used for display measurement accuracy:**
