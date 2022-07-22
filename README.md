@@ -7,7 +7,7 @@
 #### Measure Native HDR 1,000nits, Graphic White(203nit), MidGray(26nits) (nits=(cd/m<sup>2</sup>))
 ---
 
-* **<ins>Test File Usage<ins>**
+* **<ins>Test File Usage<ins>**<br/>
         1. Place media files folders (SDR and HDR)on a USB stick and plug into your TV for testing<br/>
         2. Set the TV Mode that you normally use (Cinema/Movie, Standard, Sports, Vivid, etc)<br/>
         3. Select any SDR or HDR image that will open on your TV. You need only find one that works<br/>
