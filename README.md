@@ -8,24 +8,24 @@
 ---
 
 * **<ins>Test File Usage<ins>**
-    **1. Place media files folders (SDR and HDR)on a USB stick and plug into your TV for testing
+    1. Place media files folders (SDR and HDR)on a USB stick and plug into your TV for testing
     2. Set the TV Mode that you normally use (Cinema/Movie, Standard, Sports, Vivid, etc)
     3. Select any SDR or HDR image that will open on your TV. You need only find one that works
     4. Measure the peak white image (center image)
     5. Measure NBCU LUT3 midgray downmapped image (left image)
     6. Measure BBC LUT9C midgray downmapped image (right image)
     7. Enter requested information and image luminance values into survey (links below)
-    8. Repeat the test with each TV display mode (where possible) to see what midtone stretching is occurring**
+    8. Repeat the test with each TV display mode (where possible) to see what midtone stretching is occurring
     
    * **<ins>Surveys<ins>**
-        **1. [SDR Display MODE Consumer Survey for ANYONE](https://forms.gle/7PX7YSNEz3odWzY29)
+        1. [SDR Display MODE Consumer Survey for ANYONE](https://forms.gle/7PX7YSNEz3odWzY29)
         2. [SDR Display Luminance Survey for Experts](https://forms.gle/MRcGhh8WgQVUkUSJ9)
-        3. [HDR Display Luminance Survey for Experts](https://forms.gle/nFKsyX6bWNLTkdKt6)**
+        3. [HDR Display Luminance Survey for Experts](https://forms.gle/nFKsyX6bWNLTkdKt6)
     
 * **<ins>Spot Meter Measuring<ins>**
-   ** * A spot meter must be used for display measurement accuracy:**
+    * A spot meter must be used for display measurement accuracy:**
         *  With Calman (or equivalent) using included Calman workflow for nits measurement
-        * [Click here for Handheld SM208 screen luminance meter via Amazon](https://www.amazon.com/gp/product/B00H050VEI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)**
+        * [Click here for Handheld SM208 screen luminance meter via Amazon](https://www.amazon.com/gp/product/B00H050VEI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
 * **<ins>SDR Repository Files with 10% Window Size Gray Chips<ins>**
     * **Full-Range PNG 16bit** (16bit Black=0; Peak White=65535)
