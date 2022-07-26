@@ -25,8 +25,8 @@
 * **<ins>Spot Meter Measuring<ins>**
     * A spot meter must be used for display measurement accuracy:**
         *  With Calman (or equivalent) using included Calman workflow for nits measurement
-        * [Click here for Handheld SM208 screen luminance meter via Amazon](https://www.amazon.com/gp/product/B00H050VEI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
-                * Click RANGE button once on SM208 to get into the right range for the measurements
+        * [Click here for Handheld SM208 screen luminance meter via Amazon](https://www.amazon.com/gp/product/B00H050VEI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)<br/>
+                * Click RANGE button once on SM208 to get into the right range for the measurements<br/>
 
 * **<ins>SDR Repository Files with 10% Window Size Gray Chips<ins>**
     * **Full-Range PNG 16bit** (16bit Black=0; Peak White=65535)
