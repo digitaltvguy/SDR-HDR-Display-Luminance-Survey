@@ -23,9 +23,9 @@
         3. [HDR Display Luminance Survey for Experts](https://forms.gle/nFKsyX6bWNLTkdKt6)<br/>
     
 * **<ins>Spot Meter Measuring<ins>**
-    * A spot meter must be used for display measurement accuracy:**
-        *  With Calman (or equivalent) using included Calman workflow for nits measurement
-        * **[Click here for Handheld SM208 screen luminance meter via Amazon](https://www.amazon.com/gp/product/B00H050VEI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)**
+    * **A spot meter must be used for display measurement accuracy:**
+        *  **With Calman (or equivalent) using included Calman workflow for nits measurement**
+        * **[Click here for Handheld SM208 screen luminance meter via Amazon](https://www.amazon.com/gp/product/B00H050VEI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)**<br/>
                 * Click RANGE button once on SM208 to get into the right range for the measurements
 
 * **<ins>SDR Repository Files with 10% Window Size Gray Chips<ins>**
