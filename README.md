@@ -1,4 +1,4 @@
-## Display Luminance Survey<br/>
+## Instructions: Display Luminance Survey<br/>
 ---
 ### GOALS
 #### <ins>SDR Measurement<ins>
