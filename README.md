@@ -1,6 +1,6 @@
 ## Instructions: Display Luminance Survey<br/>
 ---
-### GOALS
+### GOALS - Determine the behaviors of Consumer TV's display modes and native tone-mapping behaviors
 #### <ins>SDR Measurement<ins>
 #### Measure Native SDR Peak-White, Midgray after conversion from HDR using NBCU and BBC LUTs (tone-mapped midgray luminance HDR to SDR; the two tone-mapping methods described in ITU-R BT.2408)
 #### <ins>HDR Measurement<ins>
