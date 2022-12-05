@@ -2,7 +2,7 @@
 ---
 ### GOALS - Determine the behaviors of Consumer TV's display modes and native tone-mapping behaviors
 #### <ins>SDR Measurement<ins>
-#### Measure Native SDR Peak-White, Midgray after conversion from HDR using a "Hybrid-Linear" or "Gamma-Adjusted" tone mapping from HDR to SDR; the two tone-mapping common methods described in ITU-R BT.2408-5)
+#### Measure Native SDR Peak-White, Midgray after conversion from HDR using a "Hybrid-Linear" or "Gamma-Adjusted" tone mapping from HDR to SDR; the two tone-mapping common methods described in ITU-R BT.2408-5.
 #### <ins>HDR Measurement<ins>
 #### Measure Native HDR 1,000nits, Graphic White(203nit), MidGray(26nits) (nits=(cd/m<sup>2</sup>))
 ---
