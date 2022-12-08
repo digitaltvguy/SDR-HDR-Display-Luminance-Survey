@@ -1,8 +1,8 @@
 ## Instructions: Display Luminance Survey<br/>
 ---
-### GOALS
+### GOALS - Determine the behaviors of Consumer TV's display modes and native tone-mapping behaviors
 #### <ins>SDR Measurement<ins>
-#### Measure Native SDR Peak-White, Midgray after conversion from HDR using NBCU and BBC LUTs (tone-mapped midgray luminance HDR to SDR; the two tone-mapping methods described in ITU-R BT.2408)
+#### Measure Native SDR Peak-White, Midgray after conversion from HDR using a "Hybrid-Linear" or "Gamma-Adjusted" tone mapping from HDR to SDR; the two tone-mapping common methods described in ITU-R BT.2408-5.
 #### <ins>HDR Measurement<ins>
 #### Measure Native HDR 1,000nits, Graphic White(203nit), MidGray(26nits) (nits=(cd/m<sup>2</sup>))
 ---
@@ -12,8 +12,8 @@
         2. Set the TV Mode that you normally use (Cinema/Movie, Standard, Sports, Vivid, etc)<br/>
         3. Select any SDR or HDR image that will open on your TV. You need only find one that works<br/>
         4. Measure the peak white image (center image)<br/>
-        5. Measure NBCU LUT3 midgray downmapped image (left image)<br/>
-        6. Measure BBC LUT9C midgray downmapped image (right image)<br/>
+        5. Measure "Hybrid-Linear" midgray downmapped image (left image)<br/>
+        6. Measure "Gamma-Adjusted" midgray downmapped image (right image)<br/>
         7. Enter requested information and image luminance values into survey (links below)<br/>
         8. Repeat the test with each TV display mode (where possible) to see what midtone stretching is occurring<br/>
     
