@@ -38,12 +38,15 @@
     * **Narrow-Range MP4 AVC 8bit** (Black=0; Peak White=255)
        * **AVC-Main-MP4**
          * 3-SDR-MidGray38HLG-SDR-2ToneMaps-1080P-8bit-H264Main-NR.mp4
+         * 4-SDR-MidGray38HLG-SDR-2ToneMaps-1080P-8bit-H264High-NR.ts (this file is 7z compressed)
 
 * **<ins>HDR Repository Files with 10% Window Size Gray Chip and 5% for 1,000nits (pause movie)<ins>**
     * **<ins>Narrow-Range QuickTime/MP4 Movie10bit** (Black=0; Peak White=940)(9%, 10%, 11% Peak White Chips)<ins>**
        * **HEVC-Main10-MP4 (This file will work in most HDR TV's)**
-         * 4-PQ_Display_Luminance_Test_HEVC_NR.mp4
          * 5-HLG_Display_Luminance_Test_HEVC.mp4
+         * 6-PQ_Display_Luminance_Test_HEVC_NR.mp4
+         * 7-HLG_Display_Luminance_Test_HEVC_NR
+         * 8-PQ_Display_Luminance_Test_HEVC_NR.ts (this file is 7z compressed)
  
 * **<ins>Image Descriptions<ins>**
     * **Center Image:** Peak white (100% Peak White Nominal Video Level)
