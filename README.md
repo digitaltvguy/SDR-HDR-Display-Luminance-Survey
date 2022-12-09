@@ -63,7 +63,12 @@
   <img width="720" height="405" src="https://github.com/digitaltvguy/SDR-Display-Luminance-Survey/blob/main/Additional_ref_files/thumbnail720SDR.jpg?raw=true">
 </p>
 
-* **<ins>HDR Test File Thumbnail Preview<ins>**
+* **<ins>HLG Test File Thumbnail Preview<ins>**
 <p align="center">
   <img width="720" height="405" src="https://github.com/digitaltvguy/SDR-Display-Luminance-Survey/blob/main/Additional_ref_files/thumbnail720HDR.jpg?raw=true">
+</p>
+
+* **<ins>PQ Test File Thumbnail Preview<ins>**
+<p align="center">
+  <img width="720" height="405" src="https://github.com/digitaltvguy/SDR-Display-Luminance-Survey/blob/main/Additional_ref_files/thumbnail720PQ.jpg?raw=true">
 </p>
