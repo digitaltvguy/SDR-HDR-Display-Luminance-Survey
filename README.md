@@ -45,7 +45,7 @@
        * **HEVC-Main10-MP4 (This file will work in most HDR TV's)**
          * 5-HLG_Display_Luminance_Test_HEVC.mp4
          * 6-PQ_Display_Luminance_Test_HEVC_NR.mp4
-         * 7-HLG_Display_Luminance_Test_HEVC_NR
+         * 7-HLG_Display_Luminance_Test_HEVC_NR.ts (this file is 7z compressed)
          * 8-PQ_Display_Luminance_Test_HEVC_NR.ts (this file is 7z compressed)
  
 * **<ins>Image Descriptions<ins>**
