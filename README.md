@@ -35,20 +35,23 @@
     * **Full-Range JPEG 8bit** (8bit Black=0; Peak White=255)(Removed Temporarily)
        * **PNG-8bit, JPEG-8bit**
          * 2-SDR-Peak-White-MidGray-38PercentHLG-SDR-2ToneMaps-8bit-JPEG-FR.jpg
-    * **Narrow-Range MP4 and TS AVC 8bit** (Black=0; Peak White=255)(MP4's Removed Temporarily)
+    * **Narrow-Range MP4 and TS AVC 8bit** (Black=0; Peak White=255)
        * **AVC-Main-MP4**
-         * 3-SDR-MidGray38HLG-SDR-2ToneMaps-1080P-8bit-H264Main-NR.mp4
+         * 3-SDR-MidGray38HLG-SDR-2ToneMaps-1080P-8bit-H264Main-NR.mp4 (Removed Temporarily)
          * 4-SDR-MidGray38HLG-SDR-2ToneMaps-1080P-8bit-H264High-NR.ts.7z (7z compressed; 10minutes)
+         * 15-Murideo-PortraitDisplay-ISF SDR Skin Tone Test Pattern AVC-Main-1080i-29.97-8bit-NATIVE_v2.ts.7z (7z compressed; 10minutes)
     * **Narrow-Range TS MPEG2 8bit** (Black=0; Peak White=255)
          9-SDR-MidGray38HLG-SDR-2ToneMaps-1080P-8bit-MPEG2-NR.ts.7z (7z compressed; 10minutes)
+         14-Murideo-PortraitDisplay-ISF SDR Skin Tone Test Pattern MPEG2-1080i-29.97-8bit-NATIVE.ts.7z
 
 * **<ins>HDR Repository Files with 10% Window Size Gray Chip and 5% for 1,000nits (pause movie)<ins>**
     * **<ins>Narrow-Range QuickTime/MP4 Movie10bit** (Black=0; Peak White=940)(9%, 10%, 11% Peak White Chips)<ins>**
-       * **HEVC-Main10-MP4 & TS (This file will work in most HDR TV's) (Removed Temporarily) **
-         * 5-HLG_Display_Luminance_Test_HEVC.mp4
-         * 6-PQ_Display_Luminance_Test_HEVC_NR.mp4
+       * **HEVC-Main10-MP4 & TS (This file will work in most HDR TV's) **
+         * 5-HLG_Display_Luminance_Test_HEVC.mp4 (Removed Temporarily)
+         * 6-PQ_Display_Luminance_Test_HEVC_NR.mp4 (Removed Temporarily)
          * 7-HLG_Display_Luminance_Test_HEVC_NR.ts.7z (7z compressed; approx. 10minutes)
          * 8-PQ_Display_Luminance_Test_HEVC_NR.ts.7z (7z compressed; approx. 10minutes)
+         * 16-Murideo-PortraitDisplay-ISF Skin Tone Test Pattern - SDR-to-HLG-Up_4min_HEVC.ts.7z
  
 * **<ins>Image Descriptions<ins>**
     * **Center Image:** Peak white (100% Peak White Nominal Video Level)
