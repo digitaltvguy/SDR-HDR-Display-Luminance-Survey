@@ -29,13 +29,13 @@
                 **Click RANGE button once on SM208 to set correct range for the measurements**
 
 * **<ins>SDR Repository Files with 10% Window Size Gray Chips<ins>**
-    * **Full-Range PNG 16bit** (16bit Black=0; Peak White=65535)
+    * **Full-Range PNG 16bit** (16bit Black=0; Peak White=65535)(Removed Temporarily)
        * **PNG-16**
          * 1-SDR-Peak-White-MidGray-38PercentHLG-SDR-2ToneMaps-16bit-PNG-FR.png
-    * **Full-Range JPEG 8bit** (8bit Black=0; Peak White=255)
+    * **Full-Range JPEG 8bit** (8bit Black=0; Peak White=255)(Removed Temporarily)
        * **PNG-8bit, JPEG-8bit**
          * 2-SDR-Peak-White-MidGray-38PercentHLG-SDR-2ToneMaps-8bit-JPEG-FR.jpg
-    * **Narrow-Range MP4 and TS AVC 8bit** (Black=0; Peak White=255)
+    * **Narrow-Range MP4 and TS AVC 8bit** (Black=0; Peak White=255)(MP4's Removed Temporarily)
        * **AVC-Main-MP4**
          * 3-SDR-MidGray38HLG-SDR-2ToneMaps-1080P-8bit-H264Main-NR.mp4
          * 4-SDR-MidGray38HLG-SDR-2ToneMaps-1080P-8bit-H264High-NR.ts.7z (7z compressed; 10minutes)
@@ -44,7 +44,7 @@
 
 * **<ins>HDR Repository Files with 10% Window Size Gray Chip and 5% for 1,000nits (pause movie)<ins>**
     * **<ins>Narrow-Range QuickTime/MP4 Movie10bit** (Black=0; Peak White=940)(9%, 10%, 11% Peak White Chips)<ins>**
-       * **HEVC-Main10-MP4 (This file will work in most HDR TV's)**
+       * **HEVC-Main10-MP4 & TS (This file will work in most HDR TV's) (Removed Temporarily) **
          * 5-HLG_Display_Luminance_Test_HEVC.mp4
          * 6-PQ_Display_Luminance_Test_HEVC_NR.mp4
          * 7-HLG_Display_Luminance_Test_HEVC_NR.ts.7z (7z compressed; approx. 10minutes)
