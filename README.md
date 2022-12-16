@@ -28,32 +28,18 @@
         * [Click here for Handheld SM208 screen luminance meter via Amazon](https://www.amazon.com/gp/product/B00H050VEI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)**<br/>
                 **Click RANGE button once on SM208 to set correct range for the measurements**
 
-* **<ins>SDR Repository Files with 10% Window Size Gray Chips<ins>**
-    * **Full-Range PNG 16bit** (16bit Black=0; Peak White=65535)(Removed Temporarily)
-       * **PNG-16**
-         * 1-SDR-Peak-White-MidGray-38PercentHLG-SDR-2ToneMaps-16bit-PNG-FR.png
-    * **Full-Range JPEG 8bit** (8bit Black=0; Peak White=255)(Removed Temporarily)
-       * **PNG-8bit, JPEG-8bit**
-         * 2-SDR-Peak-White-MidGray-38PercentHLG-SDR-2ToneMaps-8bit-JPEG-FR.jpg
-    * **Narrow-Range MP4 and TS AVC 8bit** (Black=0; Peak White=255)
-       * **AVC-Main-MP4**
-         * 3-SDR-MidGray38HLG-SDR-2ToneMaps-1080P-8bit-H264Main-NR.mp4 (Removed Temporarily)
-         * 4-SDR-MidGray38HLG-SDR-2ToneMaps-1080P-8bit-H264High-NR.ts.7z (7z compressed; 10minutes)
-         * 15-Murideo-PortraitDisplay-ISF SDR Skin Tone Test Pattern AVC-Main-1080i-29.97-8bit-NATIVE_v2.ts.7z (7z compressed; 10minutes)
-    * **Narrow-Range TS MPEG2 8bit** (Black=0; Peak White=255)
-         9-SDR-MidGray38HLG-SDR-2ToneMaps-1080P-8bit-MPEG2-NR.ts.7z (7z compressed; 10minutes)
-         14-Murideo-PortraitDisplay-ISF SDR Skin Tone Test Pattern MPEG2-1080i-29.97-8bit-NATIVE.ts.7z
+* **<ins>SDR Test Files<ins>**        
+    * **Narrow-Range TS AVC and MPEG2 8bit** (Black=16; Peak White=235)
+         * 1a-b SDR Mid-Gray Left and Right from two tone mappings, Center SDR Peak White
+         * 2a-b Portrait Display Skin Tone Test Pattern SDR-HLG-SDR Roundtrip 
 
-* **<ins>HDR Repository Files with 10% Window Size Gray Chip and 5% for 1,000nits (pause movie)<ins>**
-    * **<ins>Narrow-Range QuickTime/MP4 Movie10bit** (Black=0; Peak White=940)(9%, 10%, 11% Peak White Chips)<ins>**
-       * **HEVC-Main10-MP4 & TS (This file will work in most HDR TV's) **
-         * 5-HLG_Display_Luminance_Test_HEVC.mp4 (Removed Temporarily)
-         * 6-PQ_Display_Luminance_Test_HEVC_NR.mp4 (Removed Temporarily)
-         * 7-HLG_Display_Luminance_Test_HEVC_NR.ts.7z (7z compressed; approx. 10minutes)
-         * 8-PQ_Display_Luminance_Test_HEVC_NR.ts.7z (7z compressed; approx. 10minutes)
-         * 16-Murideo-PortraitDisplay-ISF Skin Tone Test Pattern - SDR-to-HLG-Up_4min_HEVC.ts.7z
+* **<ins>HDR Test Files with 10% Window Size Gray and Graphics White and 10%/5% for 1,000nits, 3,930nits<ins>**
+        * **Narrow-Range TS HEVC 10bit** (Black=64; Peak White=940)
+         * 3- HLG Display Luminance_Test HEVC  (HEVC-Main10 59.94P, 50P)
+         * 4- PQ Display Luminance Test HEVC (HEVC-Main10 59.94P, 50P)
+         * 5- Portrait Display Skin Tone Test Pattern SDR-to-HLG Upmapping
  
-* **<ins>Image Descriptions<ins>**
+* **<ins>Image Descriptions for SDR Test Files 1a-b<ins>**
     * **Center Image:** Peak white (100% Peak White Nominal Video Level)
     * **Left Image:** SDR:BT.709 using NBCU LUT3 converted from HLG 38% signal level ("mid-gray" or 26nits when normalized at 1,000nits(cd/m<sup>2</sup)
     * **Right Image:** SDR:BT.709 using BBC LUT9C converted from HLG 38% signal level ("mid-gray" or 26nits when normalized at 1,000nits(cd/m<sup>2</sup)
