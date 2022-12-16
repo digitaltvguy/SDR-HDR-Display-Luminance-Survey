@@ -33,8 +33,9 @@
          * 1a-b SDR Mid-Gray Left and Right from two tone mappings, Center SDR Peak White
          * 2a-b Portrait Display Skin Tone Test Pattern SDR-HLG-SDR Roundtrip 
 
-* **<ins>HDR Test Files with 10% Window Size Gray and Graphics White and 10%/5% for 1,000nits, 3,930nits<ins>**
-        * **Narrow-Range TS HEVC 10bit** (Black=64; Peak White=940)
+* **<ins>HDR Test Files<ins>**
+    * **Narrow-Range TS HEVC 10bit** (Black=64; Peak White=940)
+    * **10% Window Size Gray and Graphics White and 10%/5% for 1,000nits, 3,930nits
          * 3- HLG Display Luminance_Test HEVC  (HEVC-Main10 59.94P, 50P)
          * 4- PQ Display Luminance Test HEVC (HEVC-Main10 59.94P, 50P)
          * 5- Portrait Display Skin Tone Test Pattern SDR-to-HLG Upmapping
