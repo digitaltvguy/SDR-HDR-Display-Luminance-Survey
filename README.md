@@ -1,7 +1,6 @@
 ## Instructions: Display Luminance Survey<br/>
 ---
 ### GOALS - Determine the behaviors of Consumer TV's display modes and native tone-mapping behaviors
-#### <ins>SDR Measurement<ins><br/>
 <br/>
 #### Measure Native SDR:<br/>
         1. SDR Mid-Gray from Linear-scaled(black to reference-white) down mapping from HLG-to-SDR<br/>
@@ -9,7 +8,6 @@
         3. SDR Mid-Gray from "Gamma-Adjusted"(black to reference-white) down mapping from HLG-to-SDR<br/>
         2. SDR Peak-White (Full-Screen)<br/>
 <br/>
-#### <ins>HDR Measurement<ins>
 #### Measure Native HDR:<br/>
         1. HDR Mid-Gray (ITU-R BT.2408 @ 38% signal level in HLG and PQ (10% Screen Sizes) <br/>
         2. HDR Graphic White (10% Screen Sizes)<br/>
@@ -20,10 +18,10 @@
 * **<ins>Test File Usage<ins>**<br/>
         1. Place media files folders (SDR and HDR Folders)on a USB stick and plug into your TV for testing<br/>
         2. Set the TV Mode that you normally use (Cinema/Movie, Standard, Sports, Vivid, etc)<br/>
-        3. Select any SDR or HDR image that will open on your TV. You need only find one that works<br/>
-        4. Measure the peak white image (center image)<br/>
-        5. Measure "Hybrid-Linear" midgray downmapped image (left image)<br/>
-        6. Measure "Gamma-Adjusted" midgray downmapped image (right image)<br/>
+        3. Note DEFAULT/FACTORY settings for AI/Intelligent or Energy Saver / ECO settings (On or OFF)<br/>
+                a) After measureing in "factory settings", make Measurement with the all above modes OFF<br/>
+        4. Measure all SDR Patterns<br/>
+        5. Measure all HDR Patterns if applicable<br/>
         7. Enter requested information and image luminance values into survey (links below)<br/>
         8. Repeat the test with each TV display mode (where possible) to see what midtone stretching is occurring<br/>
     
