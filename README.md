@@ -1,10 +1,20 @@
 ## Instructions: Display Luminance Survey<br/>
 ---
 ### GOALS - Determine the behaviors of Consumer TV's display modes and native tone-mapping behaviors
-#### <ins>SDR Measurement<ins>
-#### Measure Native SDR Peak-White, Midgray after conversion from HDR using a "Hybrid-Linear" or "Gamma-Adjusted" tone mapping from HDR to SDR; the two tone-mapping common methods described in ITU-R BT.2408-5.
+#### <ins>SDR Measurement<ins><br/>
+<br/>
+#### Measure Native SDR:<br/>
+        1. SDR Mid-Gray from Linear-scaled(black to reference-white) down mapping from HLG-to-SDR<br/>
+        2. SDR Peak-White (10% Screen Size)<br/>
+        3. SDR Mid-Gray from "Gamma-Adjusted"(black to reference-white) down mapping from HLG-to-SDR<br/>
+        2. SDR Peak-White (Full-Screen)<br/>
+<br/>
 #### <ins>HDR Measurement<ins>
-#### Measure Native HDR 1,000nits, Graphic White(203nit), MidGray(26nits) (nits=(cd/m<sup>2</sup>))
+#### Measure Native HDR:<br/>
+        1. HDR Mid-Gray (ITU-R BT.2408 @ 38% signal level in HLG and PQ (10% Screen Sizes) <br/>
+        2. HDR Graphic White (10% Screen Sizes)<br/>
+        3. HDR 1,000nit (10% and 5% Screen Sizes)<br/>
+        2. HDR 3,930.5nit (5% screen size)<br/>
 ---
 
 * **<ins>Test File Usage<ins>**<br/>
