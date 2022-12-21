@@ -4,10 +4,10 @@
 <br/>
 #### Measure Native SDR:<br/>
         1. SDR Mid-Gray from Linear-scaled(black to reference-white) down mapping from HLG-to-SDR<br/>
-        2. SDR Graphic White for "Linear-scaled" and "Gamma-Adjusted" down mappings from HLG-to-SDR<br/>
         2. SDR Native Peak-White (10% Screen Size)<br/>
         3. SDR Mid-Gray from "Gamma-Adjusted"(black to reference-white) down mapping from HLG-to-SDR<br/>
-        2. SDR Peak-White (Full-Screen)<br/>
+        4. SDR Graphic White for "Linear-scaled" and "Gamma-Adjusted" down mappings from HLG-to-SDR<br/>
+        5. SDR Peak-White (Full-Screen)<br/>
 <br/>
 #### Measure Native HDR:<br/>
         1. HDR Mid-Gray (ITU-R BT.2408 @ 38% signal level in HLG and PQ (10% Screen Sizes) <br/>
