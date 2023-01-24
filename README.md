@@ -48,9 +48,9 @@
          * 5- Portrait Display Skin Tone Test Pattern SDR-to-HLG Upmapping
  
 * **<ins>Image Descriptions for SDR Test Files 1a-b<ins>**
-    * **Center Image:** Peak white (100% Peak White Nominal Video Level)
-    * **Left Image:** SDR:BT.709 using NBCU LUT3 converted from HLG 38% signal level ("mid-gray" or 26nits when normalized at 1,000nits(cd/m<sup>2</sup)
-    * **Right Image:** SDR:BT.709 using BBC LUT9C converted from HLG 38% signal level ("mid-gray" or 26nits when normalized at 1,000nits(cd/m<sup>2</sup)
+    * Peak white (100% Peak White Nominal Video Level)
+    * Hybrid-Linear HDR->SDR Downconvert using NBCU LUT3 - HLG 38% signal level ("mid-gray" or 26nits when normalized at 1,000nits(cd/m<sup>2</sup)
+    * Gamma-Adjusted HDR->SDR Downconvert using BBC LUT9C - HLG 38% signal level ("mid-gray" or 26nits when normalized at 1,000nits(cd/m<sup>2</sup)
 
 * **<ins>Reference<ins>**
     * **[Click here for LUTs Used In DaVinci Resolve Project Referenced in This Repository](https://github.com/digitaltvguy/NBCU-HDR-SDR-Single-Stream_Workflow_Recommendation/tree/main/LUTS_for_Software/HLG-to-from-SDR%20-%20Type%20III%20and%20Type%20I/For%20DaVinci%20Resolve%2017%20-%20Video%20Level%20Tag%20Added%20-%20Type%20III))**
