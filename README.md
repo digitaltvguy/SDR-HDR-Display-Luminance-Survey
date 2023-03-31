@@ -2,12 +2,12 @@
 ---
 ### GOALS - Determine the behaviors of Consumer TV's display modes and native tone-mapping behaviors
 <br/>
-#### Measure Native Full-Screen SDR Images (note difference from L32 - 10% pixel area images):<br/>
+## Measure Native Full-Screen SDR Images (note difference from L32 - 10% pixel area images):<br/>
         1. SDR Native Peak-White<br/>
         2. SDR Mid-Gray from "Gamma-Adjusted"(black to reference-white) down mapping from HLG-to-SDR<br/>
         3. SDR Graphic White for "Linear-scaled" and "Gamma-Adjusted" down mappings from HLG-to-SDR<br/>
 <br/>
-#### Measure Native HDR:<br/>
+## Measure Native HDR:<br/>
         1. HDR Mid-Gray (ITU-R BT.2408 @ 38% signal level in HLG and PQ (Full-Screen Size) <br/>
         2. HDR Graphic White (Full-Screen)<br/>
         3. HDR 1,000nit (L32-10% Pixel Area)<br/>
