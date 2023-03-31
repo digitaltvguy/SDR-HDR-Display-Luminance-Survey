@@ -18,7 +18,7 @@
         1. Place media files folders (SDR and HDR Folders)on a USB stick and plug into your TV for testing<br/>
         2. Set the TV Mode that you normally use (Cinema/Movie, Standard, Sports, Vivid, etc)<br/>
         3. Note DEFAULT/FACTORY settings for AI/Intelligent or Energy Saver / ECO settings (On or OFF)<br/>
-                a) After measureing in "factory settings", make Measurement with the all above modes OFF<br/>
+                a) After measuring in "factory settings", make Measurement with the all above modes OFF<br/>
         4. Measure SDR Patterns<br/>
         5. Measure HDR Patterns if applicable<br/>
         7. Enter requested information and image luminance values into survey (links below)<br/>
