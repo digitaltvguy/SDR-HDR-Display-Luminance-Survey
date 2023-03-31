@@ -43,9 +43,10 @@
 * **<ins>HDR Test Files<ins>**
     * **Narrow-Range TS HEVC 10bit** (Black=64; Peak White=940)
     * **Full Screen Mid-Gray and Graphics White and L32 for 1,000nits, L32-10%/5% Pixel Area 3,930nits
-         * 3- HLG Display Luminance_Test HEVC  (HEVC-Main10 59.94P, 50P)
-         * 4- PQ Display Luminance Test HEVC (HEVC-Main10 59.94P, 50P)
-         * 5- Portrait Display Skin Tone Test Pattern SDR-to-HLG Upmapping
+         * 3- HLG Display Luminance_Test HEVC  (HEVC-Main10 59.94P)
+         * 4- PQ Display Luminance Test HEVC 1K-NIT Peak MDCV/CLLI (HEVC-Main10 59.94P)
+         * 5- PQ Display Luminance Test HEVC 4K-NIT Peak MDCV/CLLI (HEVC-Main10 59.94P)
+         * 6- Portrait Display Skin Tone Test Pattern SDR-to-HLG Upmapping - (HEVC-Main10 59.94P)
  
 * **<ins>Image Descriptions for SDR Test Files 1a-b<ins>**
     * Peak white (100% Peak White Nominal Video Level)
