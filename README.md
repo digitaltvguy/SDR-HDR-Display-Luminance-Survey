@@ -1,6 +1,6 @@
 ## Instructions: Display Luminance Survey<br/>
 ---
-### GOALS - Determine the behaviors of Consumer TV's display modes and native tone-mapping behaviors
+### GOALS - Determine luminance and tone-mapping behaviors of Consumer TV's and their display modes
 <br/>
 
 #### Measure Native Full-Screen SDR Images (note difference from L32 - 10% pixel area images):<br/>
