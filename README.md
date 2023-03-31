@@ -37,8 +37,11 @@
 
 * **<ins>SDR Test Files<ins>**        
     * **Narrow-Range TS AVC and MPEG2 8bit** (Black=16; Peak White=235)
-         * 1a-b Full-Screen SDR Mid-Gray with two tone mappings, SDR Peak White
-         * 2a-b Portrait Display Skin Tone Test Pattern SDR-HLG-SDR Roundtrip 
+         * 1a Full-Screen SDR Mid-Gray with two tone mappings, SDR Peak White (HEVC)
+         * 1b Full-Screen SDR Mid-Gray with two tone mappings, SDR Peak White (AVC)
+         * 2a Portrait Display Skin Tone Test Pattern SDR-HLG-SDR Roundtrip (HEVC)
+         * 2b Portrait Display Skin Tone Test Pattern SDR-HLG-SDR Roundtrip (AVC)
+        
 
 * **<ins>HDR Test Files<ins>**
     * **Narrow-Range TS HEVC 10bit** (Black=64; Peak White=940)
