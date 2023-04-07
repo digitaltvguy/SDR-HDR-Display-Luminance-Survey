@@ -3,6 +3,14 @@
 ### GOALS - Determine luminance and tone-mapping behaviors of Consumer TV's and their display modes
 <br/>
 
+#### Respository File Contents:<br/>
+           1. TV Survey Summaries Report (SDR/HDR PDFs)<br/>
+           2. TV Playable Test Pattern Files<br/>
+                * Codecs: HEVC, AVC, MPEG2<br/>
+                * Wrappers: TS, MP4<br/>
+           3. Test Pattern Original Sources (v210 Uncompressed-10bit QuickTime Wrapped)<br/>
+<br/>
+
 #### Measure Native Full-Screen SDR Images (note difference from L32 - 10% pixel area images):<br/>
         1. SDR Native Peak-White<br/>
         2. SDR Mid-Gray from "Gamma-Adjusted"(black to reference-white) down mapping from HLG-to-SDR<br/>
