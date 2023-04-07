@@ -4,11 +4,17 @@
 <br/>
 
 #### Respository File Contents:<br/>
-           1. TV Survey Summaries Report (SDR/HDR PDFs)<br/>
+           1. TV Survey Summary Reports (SDR/HDR PDFs)<br/>
            2. TV Playable Test Pattern Files<br/>
                 * Codecs: HEVC, AVC, MPEG2<br/>
                 * Wrappers: TS, MP4<br/>
-           3. Test Pattern Original Sources (v210 Uncompressed-10bit QuickTime Wrapped)<br/>
+           3. Test Pattern Original Sources<br/>
+                * Codecs: v210 Uncompressed-10bit QuickTime Wrapped<br/>
+           3. Additional Reference Files<br/>
+                * Graphic sources<br/>
+                * DaVinci Resolve Project Files<br/>
+                * Calman Workflow for NIT measurment
+           
 <br/>
 
 #### Measure Native Full-Screen SDR Images (note difference from L32 - 10% pixel area images):<br/>
